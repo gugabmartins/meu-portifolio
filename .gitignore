@@ -1,0 +1,13 @@
+# Dependências
+node_modules/
+
+# Arquivos compilados
+saida/
+*.js
+*.js.map
+*.d.ts
+
+# Outros
+npm-debug.log*
+.vscode/
+.DS_Store
